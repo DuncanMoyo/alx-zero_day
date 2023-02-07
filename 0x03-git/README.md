@@ -1,2 +1,1 @@
-My second readme
-I would love to collaborate
+My second readme, because one is not enough
